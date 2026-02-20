@@ -1,0 +1,8 @@
+I am Abhyduaya Pokhrel. THis is the sample text for the test of huffman encoding and decoding.
+
+A quick brown fox jumps over the lazy dog.
+Highly repetative text is better for compression ratio
+
+abracadabra - a classic example for Huffman encoding.
+aaaaaabbbbcccddee - highly repetitive characters compress well.
+
