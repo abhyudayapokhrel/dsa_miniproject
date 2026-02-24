@@ -17,7 +17,7 @@ This is a command line text compression tool implementing **Huffman Coding** ent
 ## Project Structure
 
 ```
-huffman_compress/
+DSA_MINIPROJECT/
 ├── src/
 │   ├── main.cpp        ← CLI entry point
 │   ├── huffman.h       ← Class declaration
